@@ -1,0 +1,44 @@
+.slide-content {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.-sukineko-sukineko-jpg- {
+  margin-top: 0px;
+}
+#slide-4 img, #slide-12 img {
+  width: 60%;
+  height: 60%;
+}
+#slide-5 img {
+  width: 100%;
+  height: 100%;
+}
+#slide-7 img {
+  width: 80%;
+  height: 80%;
+}
+
+#slide-9 img {
+  width: 80%;
+  height: 80%;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+#slide-4 .slide-content, #slide-9 .slide-content {
+  padding-top: 100px;
+}
+#slide-1 .slide-content, #slide-2 .slide-content, #slide-3 .slide-content, #slide-5 .slide-content, #slide-6 .slide-content, #slide-8 .slide-content, #slide-10 .slide-content, #slide-11 .slide-content {
+  padding-top: 150px;
+}
+#slide-12 .slide-content, #slide-13 .slide-content {
+  padding-top: 200px;
+}
+#slide-14 .slide-content {
+  padding-top: 200px;
+}
+#slide-15 .slide-content {
+  padding-top: 300px;
+  font-size: 400%;
+}
